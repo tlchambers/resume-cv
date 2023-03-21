@@ -4,26 +4,19 @@
 </div>
 <br>
   <h2 align="center"> Hi there, I'm so glad you stopped by!</h2>
-<br>
-
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
-<br>
 
 ### About Me
-
 <div>
 <p>
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 </p>
 <p>
-
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
-
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.
-
 </p>
 </div>
-<br>
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img height="28px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
     <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" /> 
