@@ -13,6 +13,7 @@ My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 </p>
 <p>
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
+
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.
 </p>
 </div>
@@ -40,9 +41,10 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 |        Name        |Project Goal|  Description    |       Technologies       | Duration |
 | :----------------: |---------------| ---------------| ------------------- | :------: |
-|[Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio)|Develope React knowledge by building a react app |During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. |JavaScript, React, JSX, HTML, CSS| 1 week and ongoing |
-|[Hangman](https://github.com/tlchambers/hangman)|Develop js knowledge |etc|Node.js, React| 2 days |
+|[Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio)|Developing React knowledge by building a react app |During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. |JavaScript, React, JSX, HTML, CSS| 1 week and ongoing |
+|[Hangman](https://github.com/tlchambers/hangman)|First project post coding bootcamp, settled on building a hangman game to futher develop js skills. |A hangman game built using React|Node.js, React, CSS, HTML| 2 days |
 |[Enaidle](https://github.com/SyntheticDBX/Enaidle)|Makers Academy Final Project, building a web app using the knowledge learnt over the 12 weeks of the coding bootcamp |A web application that connects individuals who are interested in volunteering or donating items to charitable organisations.|MongoDB, Express.js, React, Node.js| 2 weeks |
+|[Bank Tech Test](https://github.com/tlchambers/bank-tech-test)|Tech test aim to improve design and TDD skills through individual practice |A command-line application that displays the deposits, withdrawal of bank statment. |Node.js, Jest| 2 weeks |
 
 
 
