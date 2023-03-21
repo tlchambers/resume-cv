@@ -6,9 +6,11 @@
   <h2 align="center"> Hey there, thanks for stopping by!</h2>
 <br>
 
-[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-techstack)
+[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills)
 <br>
+
 ### About Me
+
 <div>
 <p>
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
@@ -18,6 +20,7 @@ My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
 
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.
+
 </p>
 </div>
 <br>
@@ -32,38 +35,62 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 <!-- <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-  <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
-  <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a> 
+  <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a>
 </p>
 <div align="center"> -->
 
 <!-- ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcca0db9608-d75b-49a3-8619-5d07456a9071) -->
 
-
 ### 💻 Projects
 
-| Name               | Description       | Techstac              | Duration |
-| ------------------ | ----------------- | --------------------- | -------- |
+|        Name        |    Description    |       Techstack       | Duration |
+| :----------------: | :---------------: | :-------------------: | :------: |
 | **Final project**  | A webapp to do x. | React, Jest, Bootsrap |          |
-| **Bank-Tech-Test** | A webapp to do y. | Ruby                  |          |
-| **Bank-Tech-Test** | A webapp to do y. | Ruby                  |          |
+| **Bank-Tech-Test** | A webapp to do y. |         Ruby          |          |
+| **Bank-Tech-Test** | A webapp to do y. |         Ruby          |          |
 
-### 🛠️ TechStack
+### 🛠️ Skills
 
-jdbfksjbf
+<table align="center">
+  <thead>
+    <tr>
+      <th>Technologies Used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">MERN</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"></td>
+      <td><img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby"></td>
+      <TD><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="md Badges" /></TD>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"></td>
+      <td><img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"></td>
+      <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"></td>
+      <TD><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="md Badges" /></TD>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></td>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"></td>
+      <td><img src="https://img.shields.io/badge/Ruby%20Sinatra-000000.svg?style=for-the-badge&logo=Ruby-Sinatra&logoColor=white" alt="Ruby Sinatra"></td>
+      <td><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
+      <TD><img src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" alt="md Badges" /></TD>
+      <TD><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"></TD>
+      <TD><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="md Badges" /></TD>
+    </TR>
+  </tbody>
+</TABLE>
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+<!-- [![#🛠️-techstack)](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev) -->
 
 ## Skills
 
@@ -72,19 +99,6 @@ Your previous experience is really important. You will need to make it really cl
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.
 
 Here's an example
-
-#### Communication
-
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 ## Education
 
@@ -111,7 +125,6 @@ That in some arguable way make you a better software developer or well-rounded p
 ### 🎨🧵 Hobbies
 
 Any cool stuff that makes you a super part of a software development team
-
 
 ### 🔥 My Stats
 
