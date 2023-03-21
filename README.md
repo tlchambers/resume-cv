@@ -3,9 +3,9 @@
 </div>
 
 
-<h2 align="center"> Hey there, I'm Thuy!</h2>
+<h2 align="center"> Hey there, thanks for stopping by!</h2>
 <p align="center">
-(It's pronounced as 'Twee' in case you're wondering.)
+My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 </p>
 
 <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
