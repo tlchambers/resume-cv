@@ -6,7 +6,7 @@
   <h2 align="center"> Hey there, thanks for stopping by!</h2>
 <br>
 
-[About Me](#about-me) | [Projects](#projects)
+[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-techstack)
 <br>
 ### About Me
 <div>
@@ -40,13 +40,17 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <!-- ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcca0db9608-d75b-49a3-8619-5d07456a9071) -->
 
 
-### projects
+### 💻 Projects
 
 | Name               | Description       | Techstac              | Duration |
 | ------------------ | ----------------- | --------------------- | -------- |
 | **Final project**  | A webapp to do x. | React, Jest, Bootsrap |          |
 | **Bank-Tech-Test** | A webapp to do y. | Ruby                  |          |
 | **Bank-Tech-Test** | A webapp to do y. | Ruby                  |          |
+
+### 🛠️ TechStack
+
+jdbfksjbf
 
 ## Work Experience
 
@@ -103,11 +107,12 @@ I honed my communication skills while completing my thesis at university, which 
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+### 🎨🧵 Hobbies
 
 Any cool stuff that makes you a super part of a software development team
 
 
-## Stats
+### 🔥 My Stats
+
 <img width="360px" src="https://github-readme-stats.vercel.app/api?username=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" /><img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <br><br>
