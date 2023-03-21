@@ -14,7 +14,8 @@
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 </p>
 <p>
-I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
+
+I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
 
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.
 </p>
