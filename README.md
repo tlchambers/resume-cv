@@ -2,19 +2,25 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"/>
+    <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a> 
+    <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white"></a> 
+</div>
 
 <h2 align="center"> Hey there, thanks for stopping by!</h2>
 <p align="center">
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 </p>
 
-<p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
+<!-- <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
   <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
   <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a> 
 </p>
-<div align="center">
+<div align="center"> -->
 
 <p align="center">
 I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
