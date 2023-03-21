@@ -1,9 +1,12 @@
-<h2 align="center"> Hey there 👋, I'm Thuy!</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
+</div>
+
+
+<h2 align="center"> Hey there, I'm Thuy!</h2>
 <p align="center">
 (It's pronounced as 'Twee' in case you're wondering.)
 </p>
-
-
 
 <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
