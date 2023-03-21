@@ -1,12 +1,12 @@
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
-  <br>
 </div>
 <br>
-  <h2 align="center"> Hey there, thanks for stopping by!</h2>
+  <h2 align="center"> Hi there, I'm so glad you stopped by!</h2>
 <br>
 
-[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills)
+<!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 <br>
 
 ### About Me
@@ -45,11 +45,13 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 ### 💻 Projects
 
-|        Name        |    Description    |       Techstack       | Duration |
-| :----------------: | :---------------: | :-------------------: | :------: |
-| **Final project**  | A webapp to do x. | React, Jest, Bootsrap |          |
-| **Bank-Tech-Test** | A webapp to do y. |         Ruby          |          |
-| **Bank-Tech-Test** | A webapp to do y. |         Ruby          |          |
+|        Name        |Project Goal|  Description    |       Technologies       | Duration |
+| :----------------: |---------------| ---------------| ------------------- | :------: |
+|[Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio)|Develope React knowledge by building a react app |During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. |JavaScript, React, JSX, HTML, CSS| 1 week and ongoing |
+|[Hangman](https://github.com/tlchambers/hangman)|Develop js knowledge |etc|Node.js, React| 2 days |
+|[Enaidle](https://github.com/SyntheticDBX/Enaidle)|Makers Academy Final Project, building a web app using the knowledge learnt over the 12 weeks of the coding bootcamp |A web application that connects individuals who are interested in volunteering or donating items to charitable organisations.|MongoDB, Express.js, React, Node.js| 2 weeks |
+
+
 
 ### 🛠️ Skills
 
