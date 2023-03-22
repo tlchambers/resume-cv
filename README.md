@@ -32,7 +32,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,jest,html,css,postman,bootstrap,ruby,postgres&perline=6" (https://skillicons.dev" />
 </p>
 
   
