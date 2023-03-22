@@ -3,60 +3,88 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
 </div>
 <br>
-  <h2 align="center"> Hi there, I'm so glad you stopped by!</h2>
+<br>
+
+  <h2 align="center"> Hey there, I'm so glad you stopped by!</h2>
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 
-### About Me
+<!-- <div id="badges">
+    <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img height="28px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" />
+    <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro" />
+    <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" />
+    <a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"></a>
+</div>   -->
 
 <div>
-<table align="center">
-  <!-- <thead>
-    <tr>
-    </tr>
-  </thead> -->
+<br>
+<img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="400">
+
+</div>
+<table>
   <tbody>
-    <tr>
-      <td width="700">My name is Thuy (it's pronounced as 'Twee' in case you're wondering).</td>
-      <td></td>
-      <td width="300"> <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </td>
+    <tr >
+      <td width="200"><a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></td>
+    </tr>
+    <tr >
+      <td width="150"><a href="https://www.codewars.com/users/TLChambers"><img height="26px" src="https://www.codewars.com/users/TLChambers/badges/micro" /></td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" /></td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /></a> </td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"></a> </td>
+      </tr>
+  </tbody>
+</table>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+  border: none!important;
+}
+</style>
+<!-- <table align="right">
+  <tbody>
+    <tr >
+      <td width="200"><a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></td>
+    </tr>
+    <tr >
+      <td width="150"><a href="https://www.codewars.com/users/TLChambers"><img height="26px" src="https://www.codewars.com/users/TLChambers/badges/micro" /></td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" /></td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /></a> </td>
+    </tr>
+    <tr >
+      <td width="200"><a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"></a> </td>
+      </tr>
+  </tbody>
+</table> -->
+
+<table>
+  <tbody>
+    <tr >
+      <td width="200">My name is Thuy (it's pronounced as 'Twee' in case you're wondering).</td>
     </tr>
     <tr>
-      <td>I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.</td>
-      <td></td>
-      <td><a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro" /><a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" /> <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /> </td>
+      <td width="600">I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech</td>
     </tr>
-    <tr>
-      <td>Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.</td>
+      <td width="600">Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.</td>
       <td></td>
-      <td>  <a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"></a> </td>
     </tr>
   </tbody>
-</TABLE>
-
-
-<!-- <br>
-<br>
-<br>
-<p>
-My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
-</p>
-<p>
-I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
-
-Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech.
-
-</p>
+</table>
 </div>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img height="28px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
-    <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" /> 
-    <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro" /> 
-    <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /> 
-    <a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok Badge"></a>
-</div> -->
-
-
 
 <!-- <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
@@ -68,35 +96,42 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 <!-- ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcca0db9608-d75b-49a3-8619-5d07456a9071) -->
 
-<br> 
-<br> 
+<br>
+
+<br>
+
+<div align="left">
 
 ### 💻 Projects
 
-|Name| ProjectGoal | Description   | Technologies  |  Duration   |
-| :------: | ------ | --------- | ------- | :----------------: |
-| [The Cake Shop](https://github.com/tlchambers/the-cake-shop) | Developing Bootstrap and React knowledge by building a website for a client| All about cakes | JavaScript, BootStrap, React, JSX, HTML, CSS   | Ongoing | 
-| [Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio) | Developing React knowledge by building a react app| During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. | JavaScript, React, JSX, HTML, CSS   | 1 week and ongoing | 
-| [Hangman](https://github.com/tlchambers/hangman) | First project post coding bootcamp, settled on building a hangman game to futher develop js skills.  | A hangman game built using React | Node.js, React, CSS, HTML  |  2 days  |
-| [Enaidle](https://github.com/SyntheticDBX/Enaidle)  | Final Group Engineering Project at Makers Academy. The aim is to build a web app using the knowledge learnt over the 12 weeks of the coding bootcamp | A web application that connects individuals who are interested in volunteering or donating items to charitable organisations. | MongoDB, Express.js, React, Node.js |2 weeks|
-|[Bank Tech Test](https://github.com/tlchambers/bank-tech-test) | A solo project to practice the skills of object-oriented design and test-driven development. | A command-line application that displays the deposits, withdrawal of bank statment. | Node.js, Jest | 4 days|
-<details>
- <summary><strong>Show More Project</strong></summary>
+|                                    Name                                    | Project Goal                                                                                                                                          | Description                                                                                                                                                                                             | Technologies                                 |      Duration      |
+| :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :----------------: |
+|        [The Cake Shop](https://github.com/tlchambers/the-cake-shop)        | Developing Bootstrap and React knowledge by building a website for a client                                                                          | All about cakes                                                                                                                                                                                         | JavaScript, BootStrap, React, JSX, HTML, CSS |      Ongoing       |
+| [Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio) | Developing React knowledge by building a react app                                                                                                   | During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. | JavaScript, React, JSX, HTML, CSS            | 1 week and ongoing |
+|              [Hangman](https://github.com/tlchambers/hangman)              | First project post coding bootcamp, settled on building a hangman game to futher develop js skills.                                                  | A hangman game built using React                                                                                                                                                                        | Node.js, React, CSS, HTML                    |       2 days       |
+|             [Enaidle](https://github.com/SyntheticDBX/Enaidle)             | Final Group Engineering Project at Makers Academy. The aim is to build a web app using the knowledge learnt over the 12 weeks of the coding bootcamp | A web application that connects individuals who are interested in volunteering or donating items to charitable organisations.                                                                           | MongoDB, Express.js, React, Node.js          |      2 weeks       |
+|       [Bank Tech Test](https://github.com/tlchambers/bank-tech-test)       | A solo project to practice the skills of object-oriented design and test-driven development.                                                         | A command-line application that displays the deposits, withdrawal of bank statment.                                                                                                                     | Node.js, Jest                                |       4 days       |
 
- ||  |    |   |     |
-| :------: | ------ | --------- | ------- | :----------------: |
-|[MernStack](https://github.com/tlchambers/mernstack) | Solo project outside Acebook group project to learn how to create a web app using the MERN stack|A workout web app A command-line application that displays the deposits, withdrawal of bank statment.| Mongodb, Express.js, React, Node.js, Jest, Cyprus | 2 weeks|
-|[Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels/) | Second group engineering project, first exposure to MERN stack |A facebook clone,  | Mongodb, Express.js, React, Node.js, Jest, Cyprus | 2 weeks|
-|[Weather App](https://github.com/tlchambers/weather-app) | Learning Js and APIs  |earning Js and APIs| JavaScript, Jest, Weather Api, Postman |5 days|
-|[Makersbnb](https://github.com/tlchambers/makersbnb) | First project to practice the skills of working in an agile team. | An Airbnb clone, room rental website| Ruby, Rspec, Sinatra, PostgreSQL, Postman |5 days|
+<details>
+ <summary><strong>Show More Projects</strong></summary>
+
+|                                                                       |                                                                                                  |                                                                                                       |                                                   |         |
+| :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------- | :-----: |
+|         [MernStack](https://github.com/tlchambers/mernstack)          | Solo project outside Acebook group project to learn how to create a web app using the MERN stack | A workout web app A command-line application that displays the deposits, withdrawal of bank statment. | Mongodb, Express.js, React, Node.js, Jest, Cyprus | 2 weeks |
+| [Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels/) | Second group engineering project, first exposure to MERN stack                                   | A facebook clone,                                                                                     | Mongodb, Express.js, React, Node.js, Jest, Cyprus | 2 weeks |
+|       [Weather App](https://github.com/tlchambers/weather-app)        | Learning Js and APIs                                                                             | earning Js and APIs                                                                                   | JavaScript, Jest, Weather Api, Postman            | 5 days  |
+|         [Makersbnb](https://github.com/tlchambers/makersbnb)          | First project to practice the skills of working in an agile team.                                | An Airbnb clone, room rental website                                                                  | Ruby, Rspec, Sinatra, PostgreSQL, Postman         | 5 days  |
+
 </details>
 
+</div>
 
 <br> 
-<br> 
+<br>
 
 ### 🛠️ Skills Technologies Used
 
+<!--
 <table align="center" border="transparent">
     <tr>
       <td><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="md Badges" /> </TD>
@@ -110,9 +145,11 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
     <tr>
       <td><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" alt="md Badges" /> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="md Badges" /></TD>
     </TR>
-</TABLE>
-
-<!-- [![#🛠️-techstack)](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev) -->
+</TABLE> -->
+<p align="center">
+    <!-- <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,python,flask,docker,jest,postgres,postman,ruby,rails,html,css&perline=8" /> -->
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
+</p>
 
 ### 🔥 Current Stats
 
