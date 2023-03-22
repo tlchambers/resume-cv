@@ -54,7 +54,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 </p>
 
 <details>
- <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="14px"> See more on my coding journey</summary>
+ <summary><strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="14px"> See more on my coding journey</strong></summary>
 
 ### 🔥 My Stats
 
@@ -69,7 +69,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <p align="center">
         <!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> -->
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="100%"/>
 </p>
 
 
