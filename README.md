@@ -9,27 +9,22 @@
 <br>
 
 
+  <img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300">
+  <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
   <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" />
   <a href="https://www.codewars.com/users/TLChambers"><img height="26px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a>
   <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /></a>
   <br>
-<img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300">
 </p>
 <br>
 
-
-<style>
-table, th, td {
-  border: none!important;
-}
-</style>
-
-<div>
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
+My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
+I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
+Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
+<!-- 
 <table>
   <tbody>
     <tr >
@@ -42,12 +37,8 @@ table, th, td {
       <td></td>
     </tr>
   </tbody>
-</table>
-</div>
-
+</table> -->
 <br>
-
----
 
 ### 💻 Top Repositories
 
