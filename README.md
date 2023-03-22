@@ -97,7 +97,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 ### 🛠️ Skills Technologies Used
 
-<table align="center" border="none">
+<table align="center" border="transparent">
     <tr>
       <td><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="md Badges" /> </TD>
     </tr>
