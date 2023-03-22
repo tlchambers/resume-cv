@@ -19,7 +19,7 @@
  <img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300">
 <br>
 
-### About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="14px">About Me
 Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
@@ -54,7 +54,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 </p>
 
 <details>
- <summary><strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="14px"> See more on my coding journey</strong></summary>
+ <summary><strong>See more on my coding journey</strong></summary>
 
 ### 🔥 My Stats
 
