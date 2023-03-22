@@ -54,7 +54,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 </p>
 
 <details>
- <summary><strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px">See more on my coding journey</strong></summary>
+ <summary><strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> See more on my coding journey</strong></summary>
 
 ### 🔥 My Stats
 
