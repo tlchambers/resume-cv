@@ -19,7 +19,6 @@
 </p>
 <br>
 
-<div>
 
 <style>
 table, th, td {
@@ -27,6 +26,7 @@ table, th, td {
 }
 </style>
 
+<div>
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <table>
