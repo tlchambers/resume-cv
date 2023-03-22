@@ -25,8 +25,6 @@ My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
 
-<br>
-
 ### 💻 Top Repositories
 
 |                                    Name                                    | Project Goal                                                                                                                                          | Description                                                                                                                                                                                             | Technologies                                 |      Duration      |
@@ -49,14 +47,13 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 </details>
 
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
 </p>
 
-### 🔥 Current Stats
+### 🔥 My Stats
 
 <!-- <img width="360px" src="https://github-readme-stats.vercel.app/api?username=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" /><img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <br><br> -->
