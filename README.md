@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
 </div>
 <br>
-<br>
 
   <h2 align="center"> Hey there, I'm so glad you stopped by!</h2>
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
@@ -96,10 +95,6 @@ table, th, td {
 
 <!-- ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcca0db9608-d75b-49a3-8619-5d07456a9071) -->
 
-<br>
-
-<br>
-
 <div align="left">
 
 ### 💻 Projects
@@ -126,7 +121,6 @@ table, th, td {
 
 </div>
 
-<br> 
 <br>
 
 ### 🛠️ Skills Technologies Used
