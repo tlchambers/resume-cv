@@ -21,10 +21,21 @@
 
 ### About Me
 Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+  
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
+
 I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
+  
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
 
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
+</p>
+
+  
 ### 💻 Top Repositories
 
 |                                    Name                                    | Project Goal                                                                                                                                          | Description                                                                                                                                                                                             | Technologies                                 |      Duration      |
@@ -46,12 +57,6 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 |         [Makersbnb](https://github.com/tlchambers/makersbnb)          | First project to practice the skills of working in an agile team.                                | An Airbnb clone, room rental website                                                                  | Ruby, Rspec, Sinatra, PostgreSQL, Postman         | 5 days  |
 
 </details>
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
-</p>
 
 <details>
  <summary><strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> See more on my coding journey</strong></summary>
