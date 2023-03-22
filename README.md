@@ -9,7 +9,6 @@
 <br>
 
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
   <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" />
@@ -22,16 +21,13 @@
 
 <div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
 <style>
-table {
-    border-collapse: collapse;
-}
 table, th, td {
   border: none!important;
 }
 </style>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <table>
   <tbody>
@@ -74,27 +70,10 @@ table, th, td {
 
 </details>
 
-<br>
 
 ### 🛠️ Languages and Tools
 
-<!--
-<table align="center" border="transparent">
-    <tr>
-      <td><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="md Badges" /> </TD>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="md Badges" /></TD>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Ruby%20Sinatra-000000.svg?style=for-the-badge&logo=Ruby-Sinatra&logoColor=white" alt="Ruby Sinatra"> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" alt="md Badges" /> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="md Badges" /></TD>
-    </TR>
-</TABLE> -->
 <p align="center">
-    <!-- <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,python,flask,docker,jest,postgres,postman,ruby,rails,html,css&perline=8" /> -->
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,bootstrap,postgres&perline=5" (https://skillicons.dev" />
 </p>
 
