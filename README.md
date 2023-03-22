@@ -5,8 +5,6 @@
 <br>
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 
-
- 
   <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
@@ -20,14 +18,14 @@
 <br>
 
 ### About Me
+
 Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-  
+
 My name is Thuy (it's pronounced as 'Twee' in case you're wondering).
 
-I enjoy learning new things. Having gradutated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
-  
-Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
+I enjoy learning new things. Having graduated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills in order to transition into a career in tech.
 
+Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page in the hopes of connecting with others and inspiring those who are thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
 
 ### 🛠️ Languages and Tools
 
@@ -35,16 +33,15 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,jest,html,css,postman,bootstrap,ruby,postgres&perline=6" (https://skillicons.dev" />
 </p>
 
-  
 ### 💻 Top Repositories
 
-|                                    Name                                    | Project Goal                                                                                                                                          | Description                                                                                                                                                                                             | Technologies                                 |      Duration      |
-| :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :----------------: |
-|        [The Cake Shop](https://github.com/tlchambers/the-cake-shop)        | Developing Bootstrap and React knowledge by building a website for a client                                                                          | All about cakes                                                                                                                                                                                         | JavaScript, BootStrap, React, JSX, HTML, CSS |      Ongoing       |
-| [Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio) | Developing React knowledge by building a react app                                                                                                   | During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occaions or just because! This is a website to showcase my designs. | JavaScript, React, JSX, HTML, CSS            | 1 week and ongoing |
-|              [Hangman](https://github.com/tlchambers/hangman)              | First project post coding bootcamp, settled on building a hangman game to futher develop js skills.                                                  | A hangman game built using React                                                                                                                                                                        | Node.js, React, CSS, HTML                    |       2 days       |
-|             [Enaidle](https://github.com/SyntheticDBX/Enaidle)             | Final Group Engineering Project at Makers Academy. The aim is to build a web app using the knowledge learnt over the 12 weeks of the coding bootcamp | A web application that connects individuals who are interested in volunteering or donating items to charitable organisations.                                                                           | MongoDB, Express.js, React, Node.js          |      2 weeks       |
-|       [Bank Tech Test](https://github.com/tlchambers/bank-tech-test)       | A solo project to practice the skills of object-oriented design and test-driven development.                                                         | A command-line application that displays the deposits, withdrawal of bank statment.                                                                                                                     | Node.js, Jest                                |       4 days       |
+|                                    Name                                    | Project Goal                                                                                                                                         | Description                                                                                                                                                                                              | Technologies                                 |      Duration      |
+| :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :----------------: |
+|        [The Cake Shop](https://github.com/tlchambers/the-cake-shop)        | Developing Bootstrap and React knowledge by building a website for a client                                                                          | All about cakes                                                                                                                                                                                          | JavaScript, BootStrap, React, JSX, HTML, CSS |      Ongoing       |
+| [Calligraphy Website](https://github.com/tlchambers/calligraphy-portfolio) | Developing React knowledge by building a react app                                                                                                   | During the pandemic, I discovered my interest in calligraphy and would send friends and family greeting cards I've made for special occasions or just because! This is a website to showcase my designs. | JavaScript, React, JSX, HTML, CSS            | 1 week and ongoing |
+|              [Hangman](https://github.com/tlchambers/hangman)              | First project post coding bootcamp, settled on building a hangman game to further develop js skills.                                                 | A hangman game built using React                                                                                                                                                                         | Node.js, React, CSS, HTML                    |       2 days       |
+|             [Enaidle](https://github.com/SyntheticDBX/Enaidle)             | Final Group Engineering Project at Makers Academy. The aim is to build a web app using the knowledge learnt over the 12 weeks of the coding bootcamp | A web application that connects individuals who are interested in volunteering or donating items to charitable organisations.                                                                            | MongoDB, Express.js, React, Node.js          |      2 weeks       |
+|       [Bank Tech Test](https://github.com/tlchambers/bank-tech-test)       | A solo project to practice the skills of object-oriented design and test-driven development.                                                         | A command-line application that displays the deposits, withdrawal of bank statement.                                                                                                                     | Node.js, Jest                                |       4 days       |
 
 <details>
  <summary><strong>Show More Repositories</strong></summary>
@@ -67,7 +64,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <br><br> -->
 
 | <a href="https://github.com/tlchambers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tlchambers&show_icons=true&include_all_commits=true&hide_border=true" alt="tlc's github stats" /></a> | <a href="https://github.com/tlchambers/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&show_icons=true&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </details>
 
@@ -76,5 +73,3 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="100%"/>
 </p>
-
-
