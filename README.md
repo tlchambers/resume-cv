@@ -1,6 +1,9 @@
 <br>
 <div id="header" align="center">
-  <img align="center" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40%"/>
+<video loop="true" autoplay="autoplay" controls muted width="600" height="320">
+  <source src="./media/TlcVideo.mp4" type="video/mp4" >
+  Your browser does not support the video tag.
+</video>
 </div>
 <br>
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
