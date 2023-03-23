@@ -29,9 +29,26 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,jest,html,css,postman,bootstrap,ruby,postgres&perline=6" (https://skillicons.dev" />
-</p>
+</p> -->
+
+
+​
+
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Applications</th>
+  </tr>
+  <tr>
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&perline=3" (https://skillicons.dev") /></p></td>
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=express,nodejs,js,jest,cypress,ruby&perline=3" (https://skillicons.dev") /></p></td>
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=visualstudio,mongodb,postgres,postman,illustrator&perline=3" (https://skillicons.dev" /></p></td>
+  </tr>
+</table>
+​
 
 ### 💻 Top Projects
 
