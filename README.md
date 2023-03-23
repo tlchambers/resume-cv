@@ -33,7 +33,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,jest,html,css,postman,bootstrap,ruby,postgres&perline=6" (https://skillicons.dev" />
 </p>
 
-### 💻 Top Repositories
+### 💻 Top Projects
 
 |                                    Name                                    | Project Goal                                                                                                                                         | Description                                                                                                                                                                                              | Technologies                                 |      Duration      |
 | :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :----------------: |
@@ -44,7 +44,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
 |       [Bank Tech Test](https://github.com/tlchambers/bank-tech-test)       | A solo project to practice the skills of object-oriented design and test-driven development.                                                         | A command-line application that displays the deposits, withdrawal of bank statement.                                                                                                                     | Node.js, Jest                                |       4 days       |
 
 <details>
- <summary><strong>Show More Repositories</strong></summary>
+ <summary><strong>Show More Projects</strong></summary>
 
 |                                                                       |                                                                                                  |                                                                                                       |                                                   |         |
 | :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------- | :-----: |
