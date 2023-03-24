@@ -1,11 +1,10 @@
-<br>
-<div id="header" align="center">
-<video loop="true" autoplay="autoplay" controls muted width="600" height="320">
-  <source src="./media/TlcVideo.mp4" type="video/mp4" >
-  Your browser does not support the video tag.
-</video>
-</div>
-<br>
+<table style="border: 1px solid transparent" align="center">
+<tr><td align="center">
+<video src="https://user-images.githubusercontent.com/105242903/227529725-26879f53-f2ab-4f70-8cfd-6559bce6d1a3.mp4">
+</td></tr>
+</table>
+
+
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 
   <br>
