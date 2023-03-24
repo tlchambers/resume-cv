@@ -11,6 +11,12 @@
   </tr>
 </table>
 
+<style>
+td, td {
+  border: none!important;
+}
+</style>
+
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 
   <br>
