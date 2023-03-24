@@ -6,7 +6,7 @@
   </tr>
    <tr>
     <td align="center">
-     Watch my video to see my journey into tech.
+    Press play to see my journey into tech.
     </td>
   </tr>
 </table>
