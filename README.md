@@ -1,7 +1,7 @@
 <table style="border: 1px solid transparent" align="center">
   <tr>
     <td align="center">
-      <video src="https://user-images.githubusercontent.com/105242903/227529725-26879f53-f2ab-4f70-8cfd-6559bce6d1a3.mp4" controls onloadstart="this.volume=0.5" />
+      <video height="50px" src="https://user-images.githubusercontent.com/105242903/227529725-26879f53-f2ab-4f70-8cfd-6559bce6d1a3.mp4" width="50%" />
     </td>
   </tr>
    <tr>
@@ -10,12 +10,6 @@
     </td>
   </tr>
 </table>
-
-<style>
-td, td {
-  border: none!important;
-}
-</style>
 
 <!-- [About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
 
