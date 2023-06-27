@@ -11,7 +11,7 @@
   </tr>
 </table>) -->
 
-[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills
+[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills)
 
   <br>
 <p align="center">
