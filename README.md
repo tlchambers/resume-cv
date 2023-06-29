@@ -51,7 +51,7 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
     <th>Applications</th>
   </tr>
   <tr>
-    <td><p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&perline=3" (https://skillicons.dev") /></p></td>
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind&perline=3" (https://skillicons.dev") /></p></td>
     <td><p align="center"><img src="https://skillicons.dev/icons?i=express,nodejs,js,jest,cypress,ruby&perline=3" (https://skillicons.dev") /></p></td>
     <td><p align="center"><img src="https://skillicons.dev/icons?i=visualstudio,mongodb,postgres,postman,illustrator&perline=3" (https://skillicons.dev" /></p></td>
   </tr>
