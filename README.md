@@ -38,7 +38,7 @@ I enjoy learning new things. Having graduated from Makers Academy's Full-Stack S
 
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page, in the hopes of connecting with others and inspiring those who're thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools I have used
 
 <!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,jest,html,css,postman,bootstrap,ruby,postgres&perline=6" (https://skillicons.dev" />
