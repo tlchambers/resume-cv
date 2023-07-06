@@ -27,7 +27,6 @@
   
   
 ### About Me
-
 Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 My name is Thuy (it's pronounce as 'Twee' in case you're wondering).
@@ -35,6 +34,7 @@ My name is Thuy (it's pronounce as 'Twee' in case you're wondering).
 I enjoy learning new things. Having graduated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills to transition into a career in tech.
 
 Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page, in the hopes of connecting with others and inspiring those who're thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
+
 
 ### 🛠️ Tech I have used
 
