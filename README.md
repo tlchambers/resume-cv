@@ -30,7 +30,7 @@
 Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 My name is Thuy (it's pronounce as 'Twee'). 
-I enjoy learning new things! 
+I enjoy learning new things.
 
 Having graduated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills to transition into a career in tech.
 
