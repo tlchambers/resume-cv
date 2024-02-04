@@ -22,7 +22,7 @@
   <a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" width="100px"/></a>
   <br>
 </p>
- <img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300" />
+<!--  <img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300" /> -->
 <br>
   
   
