@@ -1,40 +1,11 @@
-<!-- <table style="border: 1px solid transparent" align="center">
-  <tr>
-    <td align="center">
-      <video height="50px" src="https://user-images.githubusercontent.com/105242903/227529725-26879f53-f2ab-4f70-8cfd-6559bce6d1a3.mp4" width="50%" />
-    </td>
-  </tr>
-   <tr>
-    <td align="center">
-    Press play to see my journey so far into tech!
-    </td>
-  </tr>
-</table>) 
-
-[About Me](#about-me) | [Projects](#💻-projects) | [TechStack](#🛠️-skills) -->
-
-  <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
-  <a href="https://www.freecodecamp.org/fcca0db9608-d75b-49a3-8619-5d07456a9071"><img height="28px" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Freecodecamp Badge" />
-  <a href="https://www.codewars.com/users/TLChambers"><img height="26px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a>
-  <a href="https://www.codecademy.com/profiles/thuyLy-Chambers6795666656"><img height="28px" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@theceewords"><img height="28px" src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" width="100px"/></a>
-  <br>
-</p>
-<!--  <img align='right' src="https://public-files.gumroad.com/variants/k28m5xft112mg9a1jx45wds5kqns/130f5ff8fc9def419efa0ab94702990112cbf5db75242b0f86f438eeb1072b86" width="300" /> -->
-<br>
-  
-  
 ### About Me
-Hey there, I'm so glad you stopped by. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-My name is Thuy (it's pronounce as 'Twee')!
-I enjoy learning new things.
+My name is Thuy (it's pronounce as 'Twee'). 
 
-Having graduated from Makers Academy's Full-Stack Software Developer Programme, I am motivated to continue learning coding skills to transition into a career in tech.
+I enjoy learning new things. I thrive on challenges and embrace new technologies with enthusiasm. With a flair for creativity honed in the fashion industry, I'm trading fashion for software. Let's connect, collaborate, and create something extraordinary together! 🚀 
 
-Interested in seeing how my coding journey is going? I've been sharing it on my Tiktok page, in the hopes of connecting with others and inspiring those who're thinking about transitioning into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
+Curious about my coding journey? Check out my TikTok page, where I aim to inspire others contemplating a move into tech <a href="https://www.tiktok.com/@theceewords"> 👉 here</a>.
 
 
 ### 🛠️ Tech I have used
@@ -51,8 +22,10 @@ Interested in seeing how my coding journey is going? I've been sharing it on my 
   </tr>
   <tr>
     <td><p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind&perline=3" (https://skillicons.dev") /></p></td>
-    <td><p align="center"><img src="https://skillicons.dev/icons?i=express,nodejs,js,jest,cypress,ruby&perline=3" (https://skillicons.dev") /></p></td>
-    <td><p align="center"><img src="https://skillicons.dev/icons?i=visualstudio,mongodb,postgres,postman,illustrator&perline=3" (https://skillicons.dev" /></p></td>
+<!--     <td><p align="center"><img src="https://skillicons.dev/icons?i=express,nodejs,js,jest,cypress,ruby&perline=3" (https://skillicons.dev") /></p></td> -->
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=express,nodejs,js,jest,ruby&perline=3" (https://skillicons.dev") /></p></td>
+<!--     <td><p align="center"><img src="https://skillicons.dev/icons?i=visualstudio,mongodb,postgres,postman,illustrator&perline=3" (https://skillicons.dev" /></p></td> -->
+    <td><p align="center"><img src="https://skillicons.dev/icons?i=visualstudio,mongodb,postman,&perline=3" (https://skillicons.dev" /></p></td>
   </tr>
 </table>
 ​
